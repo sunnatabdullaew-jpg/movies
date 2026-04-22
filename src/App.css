@@ -1,0 +1,9 @@
+/* App.css cleared to avoid conflicts with new sidebar components */
+.layout {
+  display: flex;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
